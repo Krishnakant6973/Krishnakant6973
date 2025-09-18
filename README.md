@@ -24,8 +24,8 @@
 ## 📫 Connect with Me  
 - 🔗 GitHub: [Krishnakant6973](https://github.com/Krishnakant6973)  
 - 🧩 LeetCode: [My Profile](https://leetcode.com/u/E159ys8265/)  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link)  
+- 📧 Email: kk8290502@gmail.com 
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/krishnakant-deshwal-584a1b253/)  
 
 ---
 ⭐ *Always open to collaboration and learning opportunities!*
