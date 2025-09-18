@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna Kant  
 
-<!--
-**Krishnakant6973/Krishnakant6973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | MERN | Java**  
+🧩 **200+ DSA Problems Solved on LeetCode**  
+🚀 Passionate about Web Development & Problem-Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- 🌐 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+)  
+- ⚙️ Backend: Node.js, Express.js  
+- 🗄️ Database: MongoDB, MySQL  
+- ☕ Programming: Java  
+- 🔗 Tools: Git, GitHub  
+
+---
+
+## 🧩 DSA & Problem-Solving  
+- ✅ Solved **200+ problems** on [LeetCode](https://leetcode.com/u/E159ys8265/)  
+- 📂 Repository: [Complete DSA](https://github.com/Krishnakant6973/Complete-Data-Structures-and-Algorithms-)  
+
+---
+
+## 📫 Connect with Me  
+- 🔗 GitHub: [Krishnakant6973](https://github.com/Krishnakant6973)  
+- 🧩 LeetCode: [My Profile](https://leetcode.com/u/E159ys8265/)  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link)  
+
+---
+⭐ *Always open to collaboration and learning opportunities!*
