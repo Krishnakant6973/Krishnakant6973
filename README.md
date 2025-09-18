@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishna Kant  
+# 👋 Hi, I'm KrishnaKant  
 
 💻 **Full-Stack Developer | MERN | Java**  
 🧩 **200+ DSA Problems Solved on LeetCode**  
